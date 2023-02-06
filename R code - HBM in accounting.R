@@ -1,7 +1,7 @@
 ##Hierarchical Bayesian models in accounting: A tutorial
 ##Bullipe R. Chintha and Sanjay Kallapur
 ##This R-code builds hierarchical Bayesian models described in the paper as HBM1, HBM2 and HBM3
-##Open this file in the working directory where the input files are created by the accompanied Stata do file are stored
+##Open this file in the working directory where the input files created by the accompanied Stata do file are stored
 
 #Load packages 
 library(haven)
