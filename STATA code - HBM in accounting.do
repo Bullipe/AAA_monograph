@@ -1,4 +1,4 @@
-**Hierarchical Bayesian models in accounting: A tutorial
+**Hierarchical Bayesian models in accounting: A tutorial 
 **Bullipe R. Chintha and Sanjay Kallapur
 **This do-file takes Compustat and risk-free rates data as input and creates Frequentist and Bayesian estimates of ERCs.
 
